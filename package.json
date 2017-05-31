@@ -16,7 +16,7 @@
   },
   "devDependencies": {},
   "peerDependencies": {
-    "browser-sync": "^2",
+    "browser-sync": "git+https://github.com/kaflan/browser-sync.git",
     "webpack": "^1 || ^2 || ^2.0.0-beta || ^2.1.0-beta || ^2.2.0-rc.0"
   },
   "repository": {
